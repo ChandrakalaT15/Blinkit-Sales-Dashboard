@@ -16,7 +16,6 @@ This Power BI dashboard analyzes Blinkit sales performance, outlet performance, 
 - Average Rating: 3.9
 
 ## Dashboard Screenshot
-
 ![Dashboard](Screenshot%202026-06-18%20212213.png)
 
 ## Author
