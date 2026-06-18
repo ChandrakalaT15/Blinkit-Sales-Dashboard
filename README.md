@@ -1,11 +1,13 @@
 # Blinkit Sales Dashboard
+
 ![Dashboard](Screenshot%202026-06-18%20212213.png)
 
 ## Dataset
+
 The dataset used for this project is available in this repository.
-C:\Users\chand\OneDrive\Desktop\CHANDHU\DATA ANALYST\power bi
 
 ## Project Overview
+
 This Power BI dashboard analyzes Blinkit sales performance, outlet performance, customer ratings, and item categories.
 
 ## Tools Used
@@ -20,8 +22,12 @@ This Power BI dashboard analyzes Blinkit sales performance, outlet performance, 
 - Total Items Sold: 8523
 - Average Rating: 3.9
 
-## Dashboard Screenshot
-![Dashboard](Screenshot%202026-06-18%20212213.png)
+## Dashboard Features
+- Sales trend analysis
+- Outlet performance analysis
+- Item category analysis
+- Outlet size comparison
+- Customer rating analysis
 
 ## Author
 Chandrakala T
